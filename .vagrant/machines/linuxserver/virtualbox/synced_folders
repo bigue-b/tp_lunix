@@ -1,0 +1,1 @@
+{"virtualbox":{"/opt/tomcat/webpps":{"guestpath":"/opt/tomcat/webpps","hostpath":"C:/Users/BABY/Desktop/M2GL/Devops/Tp_linux/tomcatwebapps","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/BABY/Desktop/M2GL/Devops/Tp_linux","disabled":false,"__vagrantfile":true}}}
